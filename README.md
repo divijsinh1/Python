@@ -21,3 +21,10 @@ A lightweight, interactive Python tool that fetches real-time financial data and
    ```bash
    git clone [https://github.com/yourusername/stock-analyzer.git](https://github.com/yourusername/stock-analyzer.git)
    cd stock-analyzer
+
+Install the required dependencies:
+
+pip install yfinance pandas numpy matplotlib seaborn
+
+
+If you are running the exported Python script, simply execute it from your terminal. If you are using Jupyter, run all cells in the notebook.
